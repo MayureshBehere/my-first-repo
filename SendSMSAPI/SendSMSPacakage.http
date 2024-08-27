@@ -1,0 +1,6 @@
+@SendSMSPacakage_HostAddress = http://localhost:5263
+
+GET {{SendSMSPacakage_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
